@@ -1243,4 +1243,4 @@ AGVRSystem is a clinically-oriented VR rehabilitation application with:
 - **World-space HUD** providing real-time grip meters, rep counters, hold timers, and tracking status
 
 The system is architected for clinical deployment with enterprise-level error handling (tracking loss grace periods, offline sync, scene-transition resilience) and is well-positioned for expansion into a full telerehabilitation platform.
---
+---
